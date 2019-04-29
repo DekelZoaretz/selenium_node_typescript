@@ -21,5 +21,5 @@ $ npm install -g jasmine
 
 ## Run Unit Testing
 ```sh 
-$ node jasmine-runner.ts
+$ npm test
 ```
