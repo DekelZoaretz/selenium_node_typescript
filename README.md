@@ -9,7 +9,7 @@ Creating a UI Testing based on selenium & jasmine.
 ```bash 
 $ npm install -g typescript
 ```
-* *Install* Jasmine globally
+* **Install** Jasmine globally
 ```bash
 $ npm install -g jasmine
 ```
