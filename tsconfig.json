@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+        "lib": [
+          "es6"
+        ],
+        "types": [
+          "node",
+          "jasmine"
+        ],
+        "target": "es6",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": false,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "allowJs": false
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": false
+}

@@ -1,0 +1,30 @@
+{
+  "name": "jasmine_selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && ts-node jasmine-runner.ts"
+  },
+  "author": "author name",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chromedriver": "^73.0.0",
+    "dotenv": "^7.0.0",
+    "jasmine-node": "^1.16.2",
+    "jasmine-spec-reporter": "^4.2.1",
+    "query-string": "^5.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.3.12",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.13.7",
+    "codelyzer": "^5.0.0",
+    "jasmine": "^3.4.0",
+    "ts-node": "^8.1.0",
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
+  }
+}

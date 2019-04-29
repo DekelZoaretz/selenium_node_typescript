@@ -1,0 +1,23 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "indent": [
+            false
+        ],
+        "prefer-for-of": false,
+        "object-literal-sort-keys": false,
+        "object-literal-shorthand": false,
+        "no-var-requires": false,
+        "trailing-comma": false,
+        "radix": false,
+        "only-arrow-functions": false,
+        "no-empty": false
+    },
+    "rulesDirectory": [
+        "node_modules/codelyzer"
+    ]
+}
